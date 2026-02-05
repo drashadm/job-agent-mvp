@@ -1,0 +1,34 @@
+AI Ops EngineerAI Ops Engineer
+Tata Consultancy Services
+Frederick, MD (On-site)
+$90K/yr - $120K/yr
+
+Job Description
+
+AI Ops Engineer
+
+We are seeking an experienced AI Engineer with deep expertise in designing, developing, and optimizing Generative AI (GenAI) enabled systems. The ideal candidate will have hands-on experience in building scalable AI solutions, integrating GenAI models, and working with unstructured data in enterprise environments.
+
+Key Responsibilities
+
+ Design and develop Python-based backend services for AI applications.
+ Apply prompt engineering techniques to optimize GenAI model outputs.
+ Manage and preprocess unstructured data for use with GenAI models.
+ Deploy and integrate AI solutions into production environments.
+ Build and maintain GenAI-enabled applications and AI agent-based solutions.
+ Collaborate with cross-functional teams to deliver high-impact AI solutions.
+ Utilize Azure Data and AI services for scalable and secure deployments.
+
+Required Skillset
+
+ Strong proficiency in Python and backend service development.
+ Experience in prompt engineering and GenAI model tuning.
+ Expertise in handling and preprocessing unstructured data.
+ Proven track record in deploying and integrating AI solutions.
+ Familiarity with AI agent-based solution development (preferred).
+ Hands-on experience with Azure Data and AI services.
+ Excellent communication and teamwork skills.
+
+Salary Range- $90,000-$120,000 a year
+
+Qualifications: BACHELOR OF COMPUTER SCIENCE

@@ -1,0 +1,48 @@
+# Environment variables - NEVER commit
+.env
+.env.*
+!.env.example
+
+# Credentials and keys
+*.pem
+*.key
+*.p12
+*.pfx
+**/secrets.*
+
+# Token and API key patterns
+**/*token*
+**/*apikey*
+**/*secret*
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Logs and reports
+logs/
+log/
+REPORTS/
+*.log
+
+# IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node (if applicable)
+node_modules/
+
+# Local overrides
+*.local
+prompts/*.local
